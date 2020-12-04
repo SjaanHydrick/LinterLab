@@ -1,0 +1,27 @@
+{
+  "name": "LinterLab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SjaanHydrick/LinterLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SjaanHydrick/LinterLab/issues"
+  },
+  "homepage": "https://github.com/SjaanHydrick/LinterLab#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.16",
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "supertest": "^6.0.1"
+  }
+}
